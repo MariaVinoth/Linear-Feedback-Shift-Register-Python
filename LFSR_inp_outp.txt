@@ -1,0 +1,9 @@
+LFSR
+
+Length of the shift register:  4
+Enter the tap positions:       0,3
+Seed value:                    1011
+Number of clock cycles:        8
+
+
+Output:  10110010
